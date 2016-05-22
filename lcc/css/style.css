@@ -1,0 +1,12 @@
+#convert-button{
+  text-align: center;
+}
+#result{
+  display: none;
+}
+.modal-content{
+  color: black;
+}
+#result_timestamp{
+  font-size: 14px;
+}
